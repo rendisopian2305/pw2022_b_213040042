@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20pt;
+}
+body{
+    background-image: url("https://cdn.wallpapersafari.com/68/92/B3hG5U.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    display: inline;   
+}
+#card-title{
+    font-family: "Raleway Thin",sans-serif;
+  
+}
+#card{
+    position: inherit;
+    background: rgba(82, 174, 235, 0.863);
+    border-radius: 10px;
+    height: 310px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+#card-content{   
+ 
+    padding: 10px 44px;
+}
+h2{
+    margin-left: 65px;
+    color: aliceblue;
+}
+.form-control{
+    padding: 5px;
+    margin: 3px;
+    width: 220px;
+}
+.inp{
+    margin-top: 5px;
+    margin-left: 20px;
+    border: 0px;
+    border-radius: 4px;
+    height: 25px;
+}
+.inpt{
+    margin-left: 20px;
+    border: 0px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+.btn{
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 30px;
+    width: 175px;
+    background-color: rgb(6, 115, 158);
+    border-radius: 10px;
+    border: 0px;
+
+}
+p{
+    margin-top: 5px;
+    margin-left: 50px;
+    font-size: small;
+}
+.link{
+    color: rgb(0, 17, 255);
+   
+}
